@@ -1,0 +1,30 @@
+{
+  "name": "MEAN_teste",
+  "version": "0.0.0",
+  "description": "Projeto feito por mim, pelo livro que comprei na casa dos códigos: MEAN STACK",
+  "main": "index.js",
+  "keywords": [
+    "mean",
+    "stack",
+    "express",
+    "angularjs",
+    "mongodb",
+    "nodejs"
+  ],
+  "author": "Clóvis Neto",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.6.7",
+    "cookie-parser": "^1.3.4",
+    "ejs": "^0.8.8",
+    "express": "^4.8.8",
+    "express-load": "^1.1.14",
+    "express-session": "^1.7.6",
+    "method-override": "^2.1.3",
+    "mongodb": "^1.4.31",
+    "mongoose": "^3.8.23",
+    "mongoose-findorcreate": "^0.1.2",
+    "passport": "^0.2.1",
+    "passport-github": "^0.1.5"
+  }
+}
